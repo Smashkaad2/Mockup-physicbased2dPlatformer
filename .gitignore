@@ -1,0 +1,35 @@
+# Unity generated files and caches
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Build output
+[Bb]uild/
+[Bb]uilds/
+
+# IDE and generated project files
+.vs/
+.idea/
+.vscode/*
+!.vscode/Extensions.json
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
